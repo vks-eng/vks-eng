@@ -1,66 +1,57 @@
 
-# Hi, I'm Vinothkumar 👋
+# Hi, I'm Vinothkumar S 👋
 
-### Senior Full-Stack Engineer | Python | AWS | DevSecOps
+### Senior Full-Stack Engineer | Python | AWS | Cloud Architecture | DevSecOps
 
-I build scalable backend systems, cloud-native applications,
-and production-ready software.
+I'm a Senior Full-Stack Engineer with 5+ years of experience developing web applications, backend services, REST APIs, and cloud-native solutions.
 
-With 5+ years of experience, I specialize in Python development,
-AWS serverless architecture, full-stack engineering, and DevOps.
+I work across the full software development lifecycle, from frontend and backend engineering to cloud infrastructure, CI/CD automation, and deployment.
 
-## 🚀 What I Do
+## Technical Expertise
 
-- Python Backend Development (FastAPI, Django)
-- AWS Serverless Architecture
-- REST API Development
-- Infrastructure as Code (Terraform)
-- CI/CD & DevSecOps Automation
-- Full-Stack Development
-- AI/ML Integration
+- **Languages:** Python, JavaScript, TypeScript, SQL, Dart
+- **Frontend:** Angular, React, HTML, CSS
+- **Backend:** FastAPI, Django, Node.js, REST APIs
+- **Cloud:** AWS, Azure, GCP
+- **DevOps:** Terraform, Docker, GitHub Actions, SonarQube, Trivy
+- **Databases:** PostgreSQL, MySQL, DynamoDB
+- **Mobile:** Flutter
+- **Architecture:** Serverless, Microservices, Authentication, RBAC
 
-## 🛠️ Tech Stack
+## Featured Personal Projects
 
-**Languages**
-Python | JavaScript | TypeScript | Dart
+### 1. CloudOrbit — Multi-Cloud Management Platform
+[View Repository](https://github.com/vks-eng/multi-cloud-management-platform)
 
-**Backend**
-FastAPI | Django | Node.js
+Multi-cloud management application built using Python, FastAPI, React, TypeScript, PostgreSQL, and Terraform.
 
-**Frontend**
-React | Angular | HTML | CSS
+**Focus:** Cloud infrastructure, SaaS architecture, resource management, RBAC, and audit logging.
 
-**Cloud & DevOps**
-AWS | Azure | GCP | Terraform | GitHub Actions
-SonarQube | Trivy | Docker
+### 2. TaskForge — Secure FastAPI Backend
+[View Repository](https://github.com/vks-eng/python-fastapi-backend)
 
-**Database**
-PostgreSQL | MySQL | DynamoDB | RDS
+Python REST API project featuring JWT authentication, PostgreSQL, SQLAlchemy, database migrations, and Docker.
 
-**Mobile**
-Flutter
+**Focus:** Backend architecture, API security, authentication, and database design.
 
-## 💼 Featured Projects
+### 3. ShieldOps — DevSecOps Automation Dashboard
+[View Repository](https://github.com/vks-eng/devsecops-automation-pipeline)
 
-### 1. Multi-Cloud Management Platform
-FastAPI | React | PostgreSQL | AWS | Terraform
+DevSecOps dashboard using FastAPI, React, GitHub Actions, SonarQube, Trivy, and Docker.
 
-A unified platform to manage AWS, Azure, and GCP resources.
+**Focus:** CI/CD monitoring, vulnerability scanning, code quality, and security automation.
 
-### 2. DevSecOps CI/CD Pipeline
-GitHub Actions | SonarQube | Trivy | AWS
+## Professional Experience
 
-Automated testing, security scanning, and deployment pipeline.
+- 5+ years in full-stack and backend development
+- AWS serverless application architecture
+- REST API and database engineering
+- CI/CD and DevSecOps automation
+- Healthcare and enterprise application development
+- Technical collaboration, code reviews, and mentoring
 
-### 3. Healthcare Consultation Platform
-Python | AWS | WebSockets | Twilio | Razorpay
+## Connect With Me
 
-Real-time healthcare communication and payment integration.
-
-## 🤝 Connect With Me
-
-- GitHub: https://github.com/vks-eng
-- LinkedIn: www.linkedin.com/in/vks-eng
-- Upwork: https://www.upwork.com/freelancers/~01aba0495811330adc?mp_source=share
-
-Feel free to connect with me!
+- [LinkedIn](https://www.linkedin.com/in/vks-eng/)
+- [Upwork](https://www.upwork.com/freelancers/~01aba0495811330adc)
+- [GitHub](https://github.com/vks-eng)
